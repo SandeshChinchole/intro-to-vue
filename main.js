@@ -6,6 +6,7 @@ const app = new Vue({
     inStock: true,
     details: ['80% cotton', '20% polyester', 'Gender-neutral', 'High quality'],
     OnSale: true,
+    shipping: true,
     variants: [
       {
         variantId: 2234,
