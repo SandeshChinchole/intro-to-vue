@@ -11,7 +11,7 @@ const app = new Vue({
       'High quality',
       'Durable',
     ],
-    OnSale: false,
+    OnSale: true,
     shipping: true,
     variants: [
       {
