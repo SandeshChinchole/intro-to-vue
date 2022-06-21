@@ -12,7 +12,7 @@ const app = new Vue({
       'Durable',
     ],
     OnSale: false,
-    shipping: false,g
+    shipping: false,
     variants: [
       {
         variantId: 2234,
