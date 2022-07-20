@@ -4,5 +4,6 @@ const app = new Vue({
     product: 'Socks',
     description: 'A pair of warm, fuzzy socks.',
     inventory: 'Available',
+    color: 'blue',
   },
 });
