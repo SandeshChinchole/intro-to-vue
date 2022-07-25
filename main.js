@@ -5,5 +5,6 @@ const app = new Vue({
     description: 'A pair of warm, fuzzy socks.',
     inventory: 'Available',
     color: 'green',
+    shipping: 'yes',
   },
 });
