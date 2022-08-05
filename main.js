@@ -4,7 +4,7 @@ const app = new Vue({
     product: 'Socks',
     description: 'A pair of warm, fuzzy socks.',
     inventory: 'Available',
-    color: 'orange',
+    color: 'green',
     shipping: 'no',
   },
 });
