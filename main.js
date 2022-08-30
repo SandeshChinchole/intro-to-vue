@@ -1,8 +1,10 @@
 const app = new Vue({
-  el: '#app',
+  el: "#app",
   data: {
-    product: 'Socks',
-    image: './assets/vmSocks-green-onWhite.jpeg',
-    url: 'https://www.github.com',
+    product: "Socks",
+    image: "./assets/vmSocks-green-onWhite.jpeg",
+    inStock: true,
+    inventory: 11,
+    onSale: true,
   },
 });
