@@ -28,7 +28,7 @@
             :style="{ backgroundColor: variant.variantColor }"
             @mouseover="updateProduct(variant.variantImage)"
           >
-          {{ variant.variantId }}
+          {{ variant.variantId }} {{ variant.variantColor }}
           </div>
         </div>
           <button v-on:click="addToCart">Add to cart</button>
