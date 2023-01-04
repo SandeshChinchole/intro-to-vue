@@ -10,6 +10,7 @@ const app = new Vue({
       "Gender-neutral",
       "Comfortable",
       "Affordable",
+      "High quality",
     ],
     variants: [
       {
