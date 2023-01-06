@@ -11,6 +11,7 @@ const app = new Vue({
       "Comfortable",
       "Affordable",
       "High quality",
+      "Fast shipping",
     ],
     variants: [
       {
