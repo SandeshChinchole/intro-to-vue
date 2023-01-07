@@ -12,6 +12,7 @@ const app = new Vue({
       "Affordable",
       "High quality",
       "Fast shipping",
+      "Free returns",
     ],
     variants: [
       {
