@@ -13,6 +13,7 @@ const app = new Vue({
       "High quality",
       "Fast shipping",
       "Free returns",
+      "Money back guarantee",
     ],
     variants: [
       {
