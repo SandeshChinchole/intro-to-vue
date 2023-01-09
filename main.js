@@ -4,7 +4,12 @@ const app = new Vue({
     product: "Socks",
     image: "./assets/vmSocks-green-onWhite.jpeg",
     inStock: true,
-    details: ["80% cotton", "20% polyester", "Gender-neutral"],
+    details: [
+      "80% cotton",
+      "20% polyester",
+      "Gender-neutral",
+      "High quality fabric",
+    ],
     variants: [
       {
         variantId: 2234,
