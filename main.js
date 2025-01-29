@@ -5,7 +5,6 @@ const app = new Vue({
     image: "./assets/vmSocks-green-onWhite.jpeg",
     inStock: true,
     details: ["80% cotton", "20% polyester", "Soft", "Comfortable", "Durable"],
-    price: "$20",
     variants: [
       {
         variantId: 2234,
