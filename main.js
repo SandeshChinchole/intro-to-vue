@@ -26,8 +26,6 @@ const app = new Vue({
         ],
       },
     ],
-    shipping: ["USA", "International"],
-    paymentOptions: ["Credit card", "Debit card", "PayPal"],
     cart: 0,
   },
   methods: {
